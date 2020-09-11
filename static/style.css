@@ -1,0 +1,33 @@
+body{
+    background-color: #15202b;
+    color:white;
+    }
+.table{
+    color:white;
+    }
+ 
+th,td{
+    color:white;
+}
+.list-group-item:hover {
+background-color: #343a40;
+}
+.list-group-item{
+    background-color: #15202b;
+    border:2px solid #343a40;
+}
+.list{
+    border-radius:10px;
+}
+.jumbotron{
+    background-color: #343a40;
+    text-align: center;
+    border-radius: 50px;
+}
+#login,#register{
+    text-align: center;   
+}
+h1,h5,h3{
+    font-family: Sofia;
+    text-align: center;
+}

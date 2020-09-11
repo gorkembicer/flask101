@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block body %}
+<div class ="jumbotron">
+
+<h1>Hosgeldiniz</h1>
+<h5>Bu Blog Sarayköy de sevgiyle oluşturuldu</h5>
+</div>
+
+<ul>
+{% for article in articles  %}
+<li> Article ID : {{article.id}} - Title : {{article.title}} - Content: {{article.content}}</li>
+{% endfor %}
+
+</ul>
+{% endblock body %}
+

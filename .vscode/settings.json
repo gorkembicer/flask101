@@ -1,0 +1,7 @@
+{
+    "timeline.excludeSources": []
+    "emmet.triggerExpansionOnTab" :true
+    "emmet.showExpandedAbbreviation": true
+    "emmet.showSuggestionsAsSnippets" : true
+
+}
