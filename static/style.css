@@ -31,3 +31,7 @@ h1,h5,h3{
     font-family: Sofia;
     text-align: center;
 }
+.navbar-brand{
+    font-family: Sofia;
+    font-size: 25px;
+}
